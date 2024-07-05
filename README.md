@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Blink-zero stats](https://github-readme-stats.vercel.app/api?username=blink-zero&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Blink-zero stats](https://github-readme-stats.vercel.app/api?username=blink-zero&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
