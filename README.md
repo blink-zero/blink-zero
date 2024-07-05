@@ -1,7 +1,8 @@
 <!--🖼️RICK-->
+<!--
 <p align="center">
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
-
+-->
 <!--
 **blink-zero/blink-zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
